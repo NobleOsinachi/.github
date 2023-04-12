@@ -1,6 +1,6 @@
 # About Us
 
-![banner](./images/banner.jpg)
+![](https://making.close.com/static/close-collage-98741b61e25ef69b5e8d4d5129c839c2.jpg)
 
 At [Close](https://close.com/), we're building the sales communication platform of the future. With our roots as the very first sales CRM to include built-in calling, we're leading the industry toward eliminating manual processes and helping companies to close more deals (faster). Since our founding in 2013, we've grown to become a profitable, 100% globally distributed team of 50+ high-performing, happy people that are dedicated to building a product our customers love.
 

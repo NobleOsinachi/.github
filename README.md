@@ -1,2 +1,2 @@
 # .github
-README.md for the closeio GitHub organization profile
+README.md template placeholder for NobleOsinachi
