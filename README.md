@@ -1,2 +1,4 @@
 # .github
-README.md template placeholder for NobleOsinachi
+
+Template for new repos in my GitHub.
+
